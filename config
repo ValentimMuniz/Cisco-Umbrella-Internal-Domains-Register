@@ -1,0 +1,7 @@
+[Umbrella]
+OrgID = <Organization ID>
+ManagementAPIKey = <Umbrella Management API Key>
+ManagementAPISecret = <Umbrella Management Secret Key>
+
+[CSV]
+FileName = <CSV file, ex: domains.csv>
