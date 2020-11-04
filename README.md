@@ -27,4 +27,4 @@ Se não tiver as bibliotecas Python necessárias configuradas, receberá um erro
 <img src="screenshots/nadanovo.png"><br>
 <img src="screenshots/funcionamento.png"><br>
 <b> Dashboard Umbrella mostrando cadastrado!
-<img src="screenshots/umbrella_internaldomain.png"><br>
+<img src="screenshots/dashboard_umbrella.png"><br>
